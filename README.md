@@ -2,7 +2,7 @@ Bienvenue sur le profil GitHub de TANA FRANCK DONALD
 
 À propos
 
-Je suis un développeur spécialisé dans les bases de données et l'intelligence d'affaires (BI). 
+Je suis un data ingenieur. 
 Avec une expérience approfondie dans la conception, le développement et la gestion de bases de données relationnelles et analytiques, ainsi que dans la création de solutions d'intelligence d'affaires pour aider les entreprises à prendre des décisions éclairées.
 
 Compétences principales
